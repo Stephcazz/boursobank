@@ -70,7 +70,7 @@
             </div>
 
             <div class="flex flex-col justify-center space-y-4 bg-white rounded-2xl p-7">
-                <span class="text-sm font-semibold text-[#003883]">Votre gestionnaire Bor</span>
+                <span class="text-sm font-semibold text-[#003883]">Votre gestionnaire BoursoBank</span>
                 <div class="flex items-center space-x-3">
                     <img src="/logo.png" alt="avatar" height={50} width={50} class="w-12 h-auto" />
                     <div class="flex flex-col -space-y-1">
